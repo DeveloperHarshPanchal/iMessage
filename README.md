@@ -1,6 +1,6 @@
 # 💬 Full Stack Real-Time Chat App 🚀
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+site live at 🚀 : https://imessage-awy6.onrender.com
 
 ---
 
